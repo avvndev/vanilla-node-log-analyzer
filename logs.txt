@@ -1,0 +1,12 @@
+2026-02-16T08:00:00.000Z [INFO] Server started on port 3000
+2026-02-16T08:01:15.230Z [INFO] DB connection established successfully
+2026-02-16T08:02:10.500Z [WARN] Memory usage at 85%
+2026-02-16T08:03:45.110Z [ERROR] Database connection lost: Connection timed out
+2026-02-16T08:03:46.000Z [INFO] Retrying database connection...
+2026-02-16T08:03:48.200Z [INFO] DB connection re-established
+2026-02-16T08:05:22.990Z [INFO] Incoming request: GET /api/users
+2026-02-16T08:05:23.100Z [ERROR] 500 Internal Server Error: Unexpected token 'u' in JSON at position 0
+2026-02-16T08:10:05.000Z [DEBUG] Cache invalidated for user_123
+2026-02-16T08:12:30.450Z [WARN] API rate limit approaching for IP 192.168.1.1
+2026-02-16T08:15:00.100Z [ERROR] Critical failure: Payment gateway not responding
+2026-02-16T08:20:00.000Z [INFO] Scheduled backup completed
